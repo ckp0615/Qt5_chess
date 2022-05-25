@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Chess_bdt45.svg</file>
+        <file>img/Chess_blt45.svg</file>
+        <file>img/Chess_kdt45.svg</file>
+        <file>img/Chess_klt45.svg</file>
+        <file>img/Chess_ndt45.svg</file>
+        <file>img/Chess_nlt45.svg</file>
+        <file>img/Chess_pdt45.svg</file>
+        <file>img/Chess_plt45.svg</file>
+        <file>img/Chess_qdt45.svg</file>
+        <file>img/Chess_qlt45.svg</file>
+        <file>img/Chess_rdt45.svg</file>
+        <file>img/Chess_rlt45.svg</file>
+        <file>img/24gf-gear.svg</file>
+        <file>img/24gf-lastFrame.svg</file>
+        <file>img/24gf-pause2.svg</file>
+        <file>img/24gf-play.svg</file>
+        <file>img/flag.svg</file>
+        <file>img/handshake.svg</file>
+        <file>img/reset.svg</file>
+    </qresource>
+</RCC>
